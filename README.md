@@ -31,7 +31,10 @@ alt="https://www.packtpub.com/" border="5" /></a>
 All of the code is organized into folders. For example, Ch05.
 
 **Following is what you need for this book:**
-This book is for developers, programmers, and robotics enthusiasts interested in leveraging C++ to build exciting robotics applications. Prior knowledge of C++ is necessary to understand the projects covered in this book.
+This book is ideal for readers who want to start creating internet-connected projects themselves, but only have a little bit of experience of programming and using the Arduino IDE. You do not need to have a computer science background to follow along. Simply curiosity and a basic understanding of programming in Arduino will be enough. If you understand basic programming concepts such as variables, loops, conditions, and functions, then you will have no problem following along.
+Some of the chapters touch on a lot of different topics. I do not expect you to understand every single bit in detail. The goal here is to give you a general overview of related technologies and techniques, so you can dive into any of the topics after finishing the book. You can look at it as a starting point for IoT prototyping.
+For an intermediate or professional programmer, the pace of the hands-on projects in this book might feel a bit slow, but there is plenty of relevant information for you in the theoretical chapters as well, including how to use MQTT.
+
 
 With the following software and hardware list you can run all code files present in the book:
 ### Software and Hardware List
