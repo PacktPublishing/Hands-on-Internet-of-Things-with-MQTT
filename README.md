@@ -28,7 +28,7 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789
 alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Instructions and Navigations
-All of the code is organized into folders. For example, Chapter04.
+All of the code is organized into folders. For example, Ch05.
 
 **Following is what you need for this book:**
 This book is for developers, programmers, and robotics enthusiasts interested in leveraging C++ to build exciting robotics applications. Prior knowledge of C++ is necessary to understand the projects covered in this book.
