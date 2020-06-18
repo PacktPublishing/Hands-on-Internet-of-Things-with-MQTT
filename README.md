@@ -1,6 +1,6 @@
 # Hands-On Internet of Things with MQTT 
 
-<a href="https://www.packtpub.com/in/hardware-and-creative/hands-internet-things-mqtt?utm_source=github&utm_medium=repository&utm_campaign=9781789341782">  <img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789341782-original.jpeg" alt="Hands-On Internet of Things with MQTT" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/in/hardware-and-creative/hands-internet-things-mqtt?utm_source=github&utm_medium=repository&utm_campaign=9781789341782">  <img src="https://user-images.githubusercontent.com/1055819/85003015-ed4ffc00-b155-11ea-8aae-bc6716590888.jpg" alt="Hands-On Internet of Things with MQTT" height="256px" align="right"></a>
 
 This is the code repository for [Hands-On Internet of Things with MQTT](https://www.packtpub.com/in/hardware-and-creative/hands-internet-things-mqtt?utm_source=github&utm_medium=repository&utm_campaign=9781789341782), published by Packt.
 
@@ -59,7 +59,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 
 ## Get to Know the Author
-**Tim Pulver** is a Berlin-based freelance interaction designer and developer. In his work, he combines his physical prototyping experience and knowledge of interface design with modern technologies such as 3D printing, laser cutting, web technologies, and machine learning to create unique interactive experiences.
+[Tim Pulver](http://timpulver.de/) is a Berlin-based freelance interaction designer and developer. In his work, he combines his physical prototyping experience and knowledge of interface design with modern technologies such as 3D printing, laser cutting, web technologies, and machine learning to create unique interactive experiences.
 In recent years, he has worked on interactive data visualizations, web-based audiovisual experiences, musical interfaces, and cables— an innovative browser-based visual programming language that enables the creation of interactive audiovisual prototypes without writing any code.
 He holds a Bachelor of Arts degree in interface design from the University of Applied Sciences in Potsdam, Germany.
 
