@@ -65,10 +65,11 @@ To build the smart pet-food dispenser you need all the parts listed in *General 
 
 **Servo motor**
 
-The servo motor is used to open and close the opening of the dispenser. The exact model of the servo motor is not important. A small servo (micro-sized) is preferrable for this project, a normal-sized one will also work.
+The servo motor is used to open and close the opening of the dispenser. 
+A cheap servo motor is the Tower Pro SG90 Micro Servo. For servo motors, the specified voltage often is 4.8V (instead of 3.3V, as needed to be used with the Arduino MKR WiFi 1010), but chances are that it will work just fine using 3.3V. Please make sure you don't buy a digital servo that is not especially made for 3.3V.
+Digital ones made for 4.8V will most likely _not_ work with 3.3V.
 
-- [Sparkfun](https://www.sparkfun.com/products/14760)
-- [Exp-Tech](https://www.exp-tech.de/motoren/servomotoren/7806/micro-servomotor-mg90s-hochleistungsmetallgetriebe) (DE)
+- [Sparkfun](https://www.adafruit.com/product/169)
 
 ### Parts for Chapter 6
 
