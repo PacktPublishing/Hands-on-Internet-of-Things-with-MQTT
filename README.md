@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B11119?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Hands-On Internet of Things with MQTT 
 
 <a href="https://www.packtpub.com/in/hardware-and-creative/hands-internet-things-mqtt?utm_source=github&utm_medium=repository&utm_campaign=9781789341782">  <img src="https://user-images.githubusercontent.com/1055819/85003015-ed4ffc00-b155-11ea-8aae-bc6716590888.jpg" alt="Hands-On Internet of Things with MQTT" height="256px" align="right"></a>
